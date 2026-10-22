@@ -1,29 +1,28 @@
 # Babilonix
 
-**Alle deine PC-Spiele an einem Ort.** Babilonix ist ein minimaler Game-Launcher für Windows.
+**All your PC games in one place.** Babilonix is a minimal game launcher for Windows.
 
+## Features
 
-## Funktionen
-
-- Findet deine **Steam**- und **Epic-Games**-Spiele automatisch, mit Cover-Bildern
-- Eigene Spiele per .exe oder Verknüpfung hinzufügen
-- Favoriten, „Zuletzt gespielt“ und schnelle Suche (Taste `/`, Enter startet)
-- Zeigt Spiele an, die nicht (vollständig) installiert sind, und öffnet mit einem Klick die Installation
-- Eigene Cover-Bilder und Namen per Rechtsklick
+- Finds your **Steam** and **Epic Games** titles automatically, with cover art
+- Add any other game via its .exe file or shortcut
+- Favorites, recently played, and quick search (press `/`, then Enter to launch)
+- Flags games that aren't (fully) installed and opens the installer with one click
+- Custom cover images and names via right-click
 
 ## Download
 
-Unter **[Releases](../../releases/latest)** die neueste `Babilonix-…-Windows.zip` herunterladen.
+Grab the latest `Babilonix-…-Windows.zip` from **[Releases](../../releases/latest)**.
 
-1. ZIP entpacken (Rechtsklick, dann „Alle extrahieren“)
-2. `Babilonix.exe` starten. Beim ersten Start legt Babilonix eine Verknüpfung auf dem Desktop und im Startmenü an.
+1. Extract the ZIP (right-click → "Extract All")
+2. Run `Babilonix.exe`. On first launch, Babilonix creates a shortcut on your desktop and in the Start menu.
 
-**Hinweis:** Babilonix ist nicht digital signiert. Windows zeigt deshalb beim ersten Start eventuell „Der Computer wurde durch Windows geschützt“. Klicke dann auf „Weitere Informationen“ und anschließend auf „Trotzdem ausführen“. Ist bei dir die *Intelligente App-Steuerung* aktiv, blockiert sie unbekannte Apps grundsätzlich.
+**Note:** Babilonix is not digitally signed, so Windows may show "Windows protected your PC" on first launch. Click "More info", then "Run anyway". If *Smart App Control* is enabled on your PC, it blocks unknown apps entirely.
 
-## Systemvoraussetzungen
+## Requirements
 
-Windows 10 oder 11 (64 Bit)
+Windows 10 or 11 (64-bit)
 
-## Lizenz
+## License
 
-© 2026 Babilonix. Alle Rechte vorbehalten. Kostenlose Nutzung für private Zwecke. Kopieren, Verändern und Weiterverbreiten sind nicht erlaubt. Details stehen in der [LICENSE](LICENSE).
+© 2026 Babilonix. All rights reserved. Free for personal use. Copying, modifying, and redistributing are not permitted. See [LICENSE](LICENSE) for details.

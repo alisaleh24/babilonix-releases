@@ -1,22 +1,21 @@
 Babilonix
-Copyright (c) 2026 Babilonix. Alle Rechte vorbehalten.
+Copyright (c) 2026 Babilonix. All rights reserved.
 
-Diese Software und ihr Quellcode sind urheberrechtlich geschützt.
+This software and its source code are protected by copyright.
 
-Erlaubt ist:
-- die fertige App von der offiziellen Download-Seite herunterzuladen und
-  kostenlos für private Zwecke auf eigenen Geräten zu nutzen.
+You MAY:
+- download the compiled app from the official download page and use it free
+  of charge for personal purposes on your own devices.
 
-Nicht erlaubt ist ohne vorherige schriftliche Zustimmung des Urhebers:
-- die Software oder Teile davon zu kopieren, zu verändern, zu übersetzen,
-  zurückzuentwickeln (Reverse Engineering), zu dekompilieren oder
-  auseinanderzunehmen, soweit dies nicht gesetzlich ausdrücklich erlaubt ist;
-- die Software ganz oder teilweise weiterzuverbreiten, zu verkaufen, zu
-  vermieten oder unter eigenem Namen zu veröffentlichen;
-- Name, Logo oder Design von Babilonix für andere Produkte zu verwenden.
+You may NOT, without prior written permission from the author:
+- copy, modify, translate, reverse engineer, decompile or disassemble the
+  software or any part of it, except where expressly permitted by law;
+- redistribute, sell, rent or publish the software, in whole or in part,
+  including under a different name;
+- use the Babilonix name, logo or design for other products.
 
-Die Software wird ohne Gewährleistung bereitgestellt, soweit gesetzlich
-zulässig. Die Haftung für Vorsatz und grobe Fahrlässigkeit bleibt unberührt.
+The software is provided "as is", without warranty of any kind, to the extent
+permitted by law. Liability for intent and gross negligence remains unaffected.
 
-Enthaltene Fremdkomponenten (Electron, Chromium, Schriftart Manrope) stehen
-unter ihren eigenen Lizenzen, die der App beiliegen.
+Third-party components included with the app (Electron, Chromium, the Manrope
+typeface) are subject to their own licences, which are shipped with the app.
