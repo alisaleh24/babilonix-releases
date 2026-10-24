@@ -4,7 +4,7 @@
 
 ## Features
 
-- Finds your **Steam** and **Epic Games** titles automatically, with cover art
+- Finds your games from **Steam**, **Epic Games**, **Xbox**, **GOG**, **EA app**, **Ubisoft Connect**, **Battle.net**, **Riot**, **Rockstar**, **Amazon Games** and **itch.io** automatically, with cover art
 - Add any other game via its .exe file or shortcut
 - Favorites, recently played, and quick search (press `/`, then Enter to launch)
 - Flags games that aren't (fully) installed and opens the installer with one click
